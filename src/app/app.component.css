@@ -1,0 +1,11 @@
+.logo{
+    text-align: left;
+    display: block;
+
+
+  
+    max-width: 100px;
+    max-height: 100px;
+    left: 25%;
+    transform: translate(0, 25%);
+}
